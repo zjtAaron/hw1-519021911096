@@ -1,4 +1,5 @@
-# hw1-3-1 519021911096
+# hw1-3 519021911096
+***HW1-3-1***
 **What is README file**
   README file is a text file that introduces and explains the project, which usually needs to contain information about the project content.
  **What should README contain**
@@ -14,3 +15,6 @@
   10.Authors and acknowledgement
   11.License
   12.Changelog
+  
+  ***HW1-3-2***
+  Binary search i s a search algorithm that looks for specific elements in an ordered array
